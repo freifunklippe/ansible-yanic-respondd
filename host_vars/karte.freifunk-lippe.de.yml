@@ -1,0 +1,16 @@
+---
+yanic_respondd_batman:
+- bat01
+- bat02
+- bat03
+- bat04
+yanic_respondd_listen_meshdev:
+- t01-gw01
+- t01-gw02
+- t04-gw03
+- t04-gw04
+- t03-gw03
+- t03-gw04
+- t02-gw01
+- t02-gw02
+

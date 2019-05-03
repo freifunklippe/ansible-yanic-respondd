@@ -1,0 +1,6 @@
+---
+- hosts: 
+  - yanic-serve
+  - yanic-respondd
+  roles:
+  - yanic

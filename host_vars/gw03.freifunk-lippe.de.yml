@@ -1,0 +1,12 @@
+---
+yanic_respondd_batman:
+- bat03
+- bat04
+yanic_respondd_listen_meshdev:
+- br03
+- t03-karte
+- t03-gw04
+- br04
+- t04-karte
+- t04-gw04
+
